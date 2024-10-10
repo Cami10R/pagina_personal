@@ -7,3 +7,4 @@ const btnclick = document.getElementById("btnAddEdu");
      function registrar() {
         alert ("Educacion Registrada")
      }
+     
